@@ -1,0 +1,15 @@
+[submodule "api-gateway-service"]
+	path = api-gateway-service
+	url = https://github.com/ACC-TEAM-A/apigateway-service.git
+[submodule "eureka-service"]
+	path = eureka-service
+	url = http://github.com/ACC-TEAM-A/eureka-service.git
+[submodule "reserve-service"]
+	path = reserve-service
+	url = https://github.com/ACC-TEAM-A/reserve-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/ACC-TEAM-A/user-service.git
+[submodule "concert-service"]
+	path = concert-service
+	url = https://github.com/ACC-TEAM-A/concert-service.git
