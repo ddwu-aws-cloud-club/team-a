@@ -1,5 +1,7 @@
 ### 해당 레포는 A팀의 개발 프로젝트 아카이브 용 레포지토리 입니다.
 | 전체 프로젝트 설명은 [DDWU ACC 블로그](https://ddwu-aws-cloud-club.github.io/post/post-15-final-proj-a/) 에서 확인하실 수 있습니다.
+   
+기존 레포지토리는 [https://github.com/ACC-TEAM-A/concert-service](https://github.com/ACC-TEAM-A/concert-service) 에서 확인하실 수 있습니다.
 
 ## 1️⃣ 프로젝트 아키텍처
 
